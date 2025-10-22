@@ -1,4 +1,6 @@
-print("enter a name")
-input()
-print("enter a name")
-input()
+'''
+s="car"
+print(s)
+s='b'+s[1:3]
+print(s)
+'''
