@@ -17,6 +17,7 @@ while orm=="sag":
 print("helal olsun")    
 '''
 
+'''
 print("Enter your name")
 name=input()
 print("enter a number")
@@ -29,7 +30,7 @@ for i in range(len(number)):
         print(k,"is your",b,"th number and it is an even number")
         sumevennum=k+sumevennum
 print(sumevennum,"is the sum of even numbers in your number dear",name)
-
+'''
 
 
 
