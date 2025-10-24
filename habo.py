@@ -17,6 +17,20 @@ while orm=="sag":
 print("helal olsun")    
 '''
 
+print("Enter your name")
+name=input()
+print("enter a number")
+number=input()
+sumevennum=0
+for i in range(len(number)):
+    b=i+1
+    k=int(number[i])
+    if k%2==0:
+        print(k,"is your",b,"th number and it is an even number")
+        sumevennum=k+sumevennum
+print(sumevennum,"is the sum of even numbers in your number dear",name)
+
+
 
 
 
